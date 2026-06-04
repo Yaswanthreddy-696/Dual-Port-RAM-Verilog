@@ -44,3 +44,23 @@ Waveforms demonstrate successful simultaneous read and write operations along wi
 ## Author
 
 Yaswanth Reddy
+
+## RTL Design
+
+![RTL Design](rtl_design.png)
+
+## Reset Task
+
+![Reset Task](reset_task.png)
+
+## Write Task
+
+![Write Task](write_task.png)
+
+## Read Task
+
+![Read Task](read_task.png)
+
+## Simulation Waveforms
+
+![Waveform](waveform_write_read.png)
